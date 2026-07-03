@@ -59,6 +59,3 @@ javac HangmanGame.java
 java HangmanGame
 ```
 
-## License
-
-Add a license of your choice (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/) for guidance.
